@@ -2,7 +2,7 @@
 
 ## Client
 
-- **Q** : Quels sont vos besoins ? Et leur degré d'importance ?
+- **Q** : Quels sont vos besoins ? Et leurs degré d'importance ?
      - **Q** : Que considérez-vous comme le plus important ? Et le moins important ?
 - **Q** : Qu'est-ce qui démarque votre application de celles déjà présentes sur le marché ?  
 - **Q** : Êtes-vous satisfait des applications d'organisation déjà présentes sur le marché ? Si non, pourquoi ? 
