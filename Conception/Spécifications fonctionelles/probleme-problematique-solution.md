@@ -1,0 +1,25 @@
+# Synthèse des problèmes, problématiques et solutions – Jorganize
+
+| 🧩 **Problématique**  | ❗ **Problème**                                                                                                              | 💡 **Solution**                                                |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **Saisie Redondante** | Les utilisateurs ont beaucoup de répétition dans les démarches                                                               | Génération de modèles types (mails, attestation sur l'honneur) |
+| **Saisie Redondante** | il y a un risque d'erreur de saisie                                                                                          | Auto complétion interne à l'application                        |
+| **Saisie Redondante** | Une multiplicaton des justificatif selon les démarches                                                                       | Coffre-fort de justificatif                                    |
+| **Saisie Redondante** | recherche chronophage de toutes les démarches                                                                                | Auto suggestion des démarches à partir d'un formulaire         |
+| **Saisie Redondante** | enregistrement chronophage de toutes les démarches                                                                           | pré-enregistrement des démarche                                |
+| **Manque de clarté**  | L’utilisateur ne sait pas comment ni où signaler un changement (adresse, emploi…),ce qui entraîne des démarches incomplètes  | Tutoriel au pas à pas (Photo et/ou vidéo)                      |
+| **Manque de clarté**  | Manque de centralisation                                                                                                     | Application regroupant toutes les démarches de l'utilisateur   |
+| **Manque de clarté**  | il y a trop souvent un langage trop procédurié                                                                               | Vulgarisation des démarches administratives                    |
+| **Manque de clarté**  | Difficultés et manque d'information sur les différentes démarches ou les aides accordés                                      | Articles pour partage d'information sur des aide et démarches  |
+| **Manque de clarté**  | Manque d'accesibilité selon la démarches Les utilisateurs doivent chercher les bons liens ou pages pour faire leurs démarche | Redirection dans le site vers les bonnes démarches             |
+| **Manque de clarté**  | Manque d'explications sur les étapes de la démarche                                                                          | anticipation de la démarche                                    |
+| **Manque de clarté**  | Renoncement à la démarches ou aux droits                                                                                     | Partage avec la communauté                                     |
+| **Manque de suivi**   | Manque de suivi de l'avancement de la démarche                                                                               | gestion des status des démarches                               |
+| **Manque de suivi**   | Risque de délai depassé                                                                                                      | Calendrier                                                     |
+| **Manque de suivi**   | Risque de perte de documents                                                                                                 | Coffre-fort de justificatif                                    |
+| **Manque de suivi**   | Risque de blocage dans les procedures suivante.                                                                              | To do liste partageable et imprimable                          |
+| **Manque de suivi**   | Risque de perte de rémunération                                                                                              | Echéance de paiement ou débit des démarches                    |
+| **Manque de suivi**   | Risque de mauvaise gestion de la démarche                                                                                    | Coffre-fort d'identifiant et de mot de passe                   |
+| **Manque de suivi**   | Perte de temps                                                                                                               | possibilité de partage de compte                               |
+| **Manque de suivi**   | Manque de visuel sur les charges fixes                                                                                       | suivi du montant des démarches administrave                    |
+| **Manque de suivi**   | Risque d'oubli                                                                                                               | Rappel                                                         |
